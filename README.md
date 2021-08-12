@@ -1,5 +1,1 @@
-# PYTHON RPG GAME
-
-# This is a new line of code
-
-new lines
+# This is actually the real readme
